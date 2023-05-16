@@ -1,0 +1,82 @@
+PMID- 12208747
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20021003
+LR  - 20220317
+IS  - 0008-5472 (Print)
+IS  - 0008-5472 (Linking)
+VI  - 62
+IP  - 17
+DP  - 2002 Sep 1
+TI  - Translation of microarray data into clinically relevant cancer diagnostic tests 
+      using gene expression ratios in lung cancer and mesothelioma.
+PG  - 4963-7
+AB  - The pathological distinction between malignant pleural mesothelioma (MPM)and 
+      adenocarcinoma (ADCA) of the lung can be cumbersome using established methods. We 
+      propose that a simple technique, based on the expression levels of a small number 
+      of genes, can be useful in the early and accurate diagnosis of MPM and lung 
+      cancer. This method is designed to accurately distinguish between genetically 
+      disparate tissues using gene expression ratios and rationally chosen thresholds. 
+      Here we have tested the fidelity of ratio-based diagnosis in differentiating 
+      between MPM and lung cancer in 181 tissue samples (31 MPM and 150 ADCA). A 
+      training set of 32 samples (16 MPM and 16 ADCA) was used to identify pairs of 
+      genes with highly significant, inversely correlated expression levels to form a 
+      total of 15 diagnostic ratios using expression profiling data. Any single ratio 
+      of the 15 examined was at least 90% accurate in predicting diagnosis for the 
+      remaining 149 samples (e.g., test set). We then examined (in the test set) the 
+      accuracy of multiple ratios combined to form a simple diagnostic tool. Using two 
+      and three expression ratios, we found that the differential diagnoses of MPM and 
+      lung ADCA were 95% and 99% accurate, respectively. We propose that using gene 
+      expression ratios is an accurate and inexpensive technique with direct clinical 
+      applicability for distinguishing between MPM and lung cancer. Furthermore, we 
+      provide evidence suggesting that this technique can be equally accurate in other 
+      clinical scenarios.
+FAU - Gordon, Gavin J
+AU  - Gordon GJ
+AD  - Division of Thoracic Surgery, Brigham and Women's Hospital, Harvard Medical 
+      School, Boston, Massachusetts 02115, USA.
+FAU - Jensen, Roderick V
+AU  - Jensen RV
+FAU - Hsiao, Li-Li
+AU  - Hsiao LL
+FAU - Gullans, Steven R
+AU  - Gullans SR
+FAU - Blumenstock, Joshua E
+AU  - Blumenstock JE
+FAU - Ramaswamy, Sridhar
+AU  - Ramaswamy S
+FAU - Richards, William G
+AU  - Richards WG
+FAU - Sugarbaker, David J
+AU  - Sugarbaker DJ
+FAU - Bueno, Raphael
+AU  - Bueno R
+LA  - eng
+GR  - DK58849/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Cancer Res
+JT  - Cancer research
+JID - 2984705R
+SB  - IM
+MH  - Adenocarcinoma/diagnosis/*genetics
+MH  - Diagnosis, Differential
+MH  - Discriminant Analysis
+MH  - Gene Expression
+MH  - Humans
+MH  - Lung Neoplasms/diagnosis/*genetics
+MH  - Mesothelioma/diagnosis/*genetics
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Pleural Neoplasms/diagnosis/*genetics
+MH  - Reproducibility of Results
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+EDAT- 2002/09/05 10:00
+MHDA- 2002/10/04 04:00
+CRDT- 2002/09/05 10:00
+PHST- 2002/09/05 10:00 [pubmed]
+PHST- 2002/10/04 04:00 [medline]
+PHST- 2002/09/05 10:00 [entrez]
+PST - ppublish
+SO  - Cancer Res. 2002 Sep 1;62(17):4963-7.

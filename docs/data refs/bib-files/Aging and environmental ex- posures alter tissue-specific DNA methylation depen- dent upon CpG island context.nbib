@@ -1,0 +1,127 @@
+PMID- 19680444
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091027
+LR  - 20220426
+IS  - 1553-7404 (Electronic)
+IS  - 1553-7390 (Print)
+IS  - 1553-7390 (Linking)
+VI  - 5
+IP  - 8
+DP  - 2009 Aug
+TI  - Aging and environmental exposures alter tissue-specific DNA methylation dependent 
+      upon CpG island context.
+PG  - e1000602
+LID - 10.1371/journal.pgen.1000602 [doi]
+LID - e1000602
+AB  - Epigenetic control of gene transcription is critical for normal human development 
+      and cellular differentiation. While alterations of epigenetic marks such as DNA 
+      methylation have been linked to cancers and many other human diseases, 
+      interindividual epigenetic variations in normal tissues due to aging, 
+      environmental factors, or innate susceptibility are poorly characterized. The 
+      plasticity, tissue-specific nature, and variability of gene expression are 
+      related to epigenomic states that vary across individuals. Thus, population-based 
+      investigations are needed to further our understanding of the fundamental 
+      dynamics of normal individual epigenomes. We analyzed 217 non-pathologic human 
+      tissues from 10 anatomic sites at 1,413 autosomal CpG loci associated with 773 
+      genes to investigate tissue-specific differences in DNA methylation and to 
+      discern how aging and exposures contribute to normal variation in methylation. 
+      Methylation profile classes derived from unsupervised modeling were significantly 
+      associated with age (P<0.0001) and were significant predictors of tissue origin 
+      (P<0.0001). In solid tissues (n = 119) we found striking, highly significant CpG 
+      island-dependent correlations between age and methylation; loci in CpG islands 
+      gained methylation with age, loci not in CpG islands lost methylation with age 
+      (P<0.001), and this pattern was consistent across tissues and in an analysis of 
+      blood-derived DNA. Our data clearly demonstrate age- and exposure-related 
+      differences in tissue-specific methylation and significant age-associated 
+      methylation patterns which are CpG island context-dependent. This work provides 
+      novel insight into the role of aging and the environment in susceptibility to 
+      diseases such as cancer and critically informs the field of epigenomics by 
+      providing evidence of epigenetic dysregulation by age-related methylation 
+      alterations. Collectively we reveal key issues to consider both in the 
+      construction of reference and disease-related epigenomes and in the 
+      interpretation of potentially pathologically important alterations.
+FAU - Christensen, Brock C
+AU  - Christensen BC
+AD  - Department of Pathology and Laboratory Medicine, Brown University, Providence, 
+      RI, USA.
+FAU - Houseman, E Andres
+AU  - Houseman EA
+FAU - Marsit, Carmen J
+AU  - Marsit CJ
+FAU - Zheng, Shichun
+AU  - Zheng S
+FAU - Wrensch, Margaret R
+AU  - Wrensch MR
+FAU - Wiemels, Joseph L
+AU  - Wiemels JL
+FAU - Nelson, Heather H
+AU  - Nelson HH
+FAU - Karagas, Margaret R
+AU  - Karagas MR
+FAU - Padbury, James F
+AU  - Padbury JF
+FAU - Bueno, Raphael
+AU  - Bueno R
+FAU - Sugarbaker, David J
+AU  - Sugarbaker DJ
+FAU - Yeh, Ru-Fang
+AU  - Yeh RF
+FAU - Wiencke, John K
+AU  - Wiencke JK
+FAU - Kelsey, Karl T
+AU  - Kelsey KT
+LA  - eng
+GR  - R01 CA057494/CA/NCI NIH HHS/United States
+GR  - R01 ES006717/ES/NIEHS NIH HHS/United States
+GR  - R01 CA57494/CA/NCI NIH HHS/United States
+GR  - P42 ES007373/ES/NIEHS NIH HHS/United States
+GR  - R01 CA100679/CA/NCI NIH HHS/United States
+GR  - R01 CA126939/CA/NCI NIH HHS/United States
+GR  - R01 CA052689/CA/NCI NIH HHS/United States
+GR  - R01 CA126831/CA/NCI NIH HHS/United States
+GR  - R01 CA078609/CA/NCI NIH HHS/United States
+GR  - R01 CA121147/CA/NCI NIH HHS/United States
+GR  - R01 CA52689/CA/NCI NIH HHS/United States
+GR  - P50 CA097257/CA/NCI NIH HHS/United States
+GR  - P50 097257/PHS HHS/United States
+GR  - P20 RR018728/RR/NCRR NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20090814
+PL  - United States
+TA  - PLoS Genet
+JT  - PLoS genetics
+JID - 101239074
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Aging/*genetics
+MH  - *CpG Islands
+MH  - *DNA Methylation
+MH  - *Environmental Exposure
+MH  - Epigenesis, Genetic
+MH  - Female
+MH  - Humans
+MH  - Infant, Newborn
+MH  - Male
+MH  - Middle Aged
+MH  - Organ Specificity
+PMC - PMC2718614
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2009/08/15 09:00
+MHDA- 2009/10/29 06:00
+CRDT- 2009/08/15 09:00
+PHST- 2008/11/02 00:00 [received]
+PHST- 2009/07/15 00:00 [accepted]
+PHST- 2009/08/15 09:00 [entrez]
+PHST- 2009/08/15 09:00 [pubmed]
+PHST- 2009/10/29 06:00 [medline]
+AID - 08-PLGE-RA-1468R4 [pii]
+AID - 10.1371/journal.pgen.1000602 [doi]
+PST - ppublish
+SO  - PLoS Genet. 2009 Aug;5(8):e1000602. doi: 10.1371/journal.pgen.1000602. Epub 2009 
+      Aug 14.

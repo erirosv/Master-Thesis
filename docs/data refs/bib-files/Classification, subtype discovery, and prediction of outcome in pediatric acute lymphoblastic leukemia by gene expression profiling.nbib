@@ -1,0 +1,111 @@
+PMID- 12086872
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020813
+LR  - 20220318
+IS  - 1535-6108 (Print)
+IS  - 1535-6108 (Linking)
+VI  - 1
+IP  - 2
+DP  - 2002 Mar
+TI  - Classification, subtype discovery, and prediction of outcome in pediatric acute 
+      lymphoblastic leukemia by gene expression profiling.
+PG  - 133-43
+AB  - Treatment of pediatric acute lymphoblastic leukemia (ALL) is based on the concept 
+      of tailoring the intensity of therapy to a patient's risk of relapse. To 
+      determine whether gene expression profiling could enhance risk assignment, we 
+      used oligonucleotide microarrays to analyze the pattern of genes expressed in 
+      leukemic blasts from 360 pediatric ALL patients. Distinct expression profiles 
+      identified each of the prognostically important leukemia subtypes, including 
+      T-ALL, E2A-PBX1, BCR-ABL, TEL-AML1, MLL rearrangement, and hyperdiploid >50 
+      chromosomes. In addition, another ALL subgroup was identified based on its unique 
+      expression profile. Examination of the genes comprising the expression signatures 
+      provided important insights into the biology of these leukemia subgroups. 
+      Further, within some genetic subgroups, expression profiles identified those 
+      patients that would eventually fail therapy. Thus, the single platform of 
+      expression profiling should enhance the accurate risk stratification of pediatric 
+      ALL patients.
+FAU - Yeoh, Eng-Juh
+AU  - Yeoh EJ
+AD  - Department of Pathology, St. Jude Children's Research Hospital, Memphis, TN 
+      38105, USA.
+FAU - Ross, Mary E
+AU  - Ross ME
+FAU - Shurtleff, Sheila A
+AU  - Shurtleff SA
+FAU - Williams, W Kent
+AU  - Williams WK
+FAU - Patel, Divyen
+AU  - Patel D
+FAU - Mahfouz, Rami
+AU  - Mahfouz R
+FAU - Behm, Fred G
+AU  - Behm FG
+FAU - Raimondi, Susana C
+AU  - Raimondi SC
+FAU - Relling, Mary V
+AU  - Relling MV
+FAU - Patel, Anami
+AU  - Patel A
+FAU - Cheng, Cheng
+AU  - Cheng C
+FAU - Campana, Dario
+AU  - Campana D
+FAU - Wilkins, Dawn
+AU  - Wilkins D
+FAU - Zhou, Xiaodong
+AU  - Zhou X
+FAU - Li, Jinyan
+AU  - Li J
+FAU - Liu, Huiqing
+AU  - Liu H
+FAU - Pui, Ching-Hon
+AU  - Pui CH
+FAU - Evans, William E
+AU  - Evans WE
+FAU - Naeve, Clayton
+AU  - Naeve C
+FAU - Wong, Limsoon
+AU  - Wong L
+FAU - Downing, James R
+AU  - Downing JR
+LA  - eng
+GR  - CA-21765/CA/NCI NIH HHS/United States
+GR  - CA36401/CA/NCI NIH HHS/United States
+GR  - CA51001/CA/NCI NIH HHS/United States
+GR  - CA78224/CA/NCI NIH HHS/United States
+GR  - P01 CA71907-06/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Cancer Cell
+JT  - Cancer cell
+JID - 101130617
+SB  - IM
+CIN - Cancer Cell. 2002 Mar;1(2):109-10. PMID: 12086866
+MH  - Algorithms
+MH  - Child
+MH  - Computational Biology
+MH  - *Gene Expression Profiling
+MH  - Humans
+MH  - Immunophenotyping
+MH  - Leukemia, Myeloid, Acute/classification/diagnosis/genetics/pathology
+MH  - Oligonucleotide Array Sequence Analysis/methods
+MH  - Precursor Cell Lymphoblastic 
+      Leukemia-Lymphoma/classification/*diagnosis/*genetics/pathology
+MH  - Prognosis
+MH  - Recurrence
+MH  - Risk Factors
+MH  - Treatment Failure
+EDAT- 2002/06/28 10:00
+MHDA- 2002/08/14 10:01
+CRDT- 2002/06/28 10:00
+PHST- 2002/06/28 10:00 [pubmed]
+PHST- 2002/08/14 10:01 [medline]
+PHST- 2002/06/28 10:00 [entrez]
+AID - S1535610802000326 [pii]
+AID - 10.1016/s1535-6108(02)00032-6 [doi]
+PST - ppublish
+SO  - Cancer Cell. 2002 Mar;1(2):133-43. doi: 10.1016/s1535-6108(02)00032-6.

@@ -1,0 +1,13 @@
+# T7 DNA Polymerase
+T7 DNA polymerase is a robust enzyme that can synthesize DNA rapidly and accurately. It is a single-subunit protein with a molecular weight of approximately 98 kDa and a length of 881 amino acids. T7 DNA polymerase has a structure that consists of three domains: the N-terminal domain, the thumb domain, and the palm domain. The N-terminal domain binds to the DNA template, while the thumb domain interacts with the incoming nucleotides, and the palm domain contains the catalytic site responsible for nucleotide polymerization.
+- Steitz, T. A. (1999). DNA polymerases: structural diversity and common mechanisms. Journal of Biological Chemistry, 274(25), 17395-17398.
+
+
+One of the unique features of T7 DNA polymerase is its high processivity, which refers to the ability of the enzyme to remain attached to the DNA template for a prolonged period during DNA synthesis. T7 DNA polymerase achieves high processivity by forming a stable complex with the DNA template and maintaining a tight grip on the template strand. This allows for rapid and efficient incorporation of nucleotides during DNA synthesis.
+- Zhang, Y., Heidrich, J., & Wang, Y. (2012). T7 DNA polymerase: a multifunctional protein in molecular biology. Journal of Cellular Biochemistry, 113(8), 2530-2539.
+
+Moreover, T7 DNA polymerase has high fidelity, meaning it makes very few errors during DNA synthesis. The enzyme has an error rate of approximately 10^-5 to 10^-6, which is lower than most other DNA polymerases. This high fidelity is due in part to the ability of T7 DNA polymerase to proofread the DNA product by excising and replacing mismatched nucleotides.
+- Makiela-Dzbenska, K., & Jezewska, M. J. (2018). T7 DNA polymerase: the driving force behind the replication fork. Critical reviews in biochemistry and molecular biology, 53(4), 382-402.
+
+T7 DNA polymerase is widely used in molecular biology applications, including PCR and DNA sequencing. Its high processivity and fidelity make it an ideal enzyme for these applications, as it allows for efficient amplification and sequencing of DNA. Additionally, T7 DNA polymerase has been engineered to have various modifications that increase its stability, activity, and processivity, making it an even more useful tool for molecular biology research.
+- Zhang, Y., Heidrich, J., & Wang, Y. (2012). T7 DNA polymerase: a multifunctional protein in molecular biology. Journal of Cellular Biochemistry, 113(8), 2530-2539.

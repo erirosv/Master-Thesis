@@ -1,0 +1,91 @@
+PMID- 12086878
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020813
+LR  - 20220330
+IS  - 1535-6108 (Print)
+IS  - 1535-6108 (Linking)
+VI  - 1
+IP  - 2
+DP  - 2002 Mar
+TI  - Gene expression correlates of clinical prostate cancer behavior.
+PG  - 203-9
+AB  - Prostate tumors are among the most heterogeneous of cancers, both histologically 
+      and clinically. Microarray expression analysis was used to determine whether 
+      global biological differences underlie common pathological features of prostate 
+      cancer and to identify genes that might anticipate the clinical behavior of this 
+      disease. While no expression correlates of age, serum prostate specific antigen 
+      (PSA), and measures of local invasion were found, a set of genes was identified 
+      that strongly correlated with the state of tumor differentiation as measured by 
+      Gleason score. Moreover, a model using gene expression data alone accurately 
+      predicted patient outcome following prostatectomy. These results support the 
+      notion that the clinical behavior of prostate cancer is linked to underlying gene 
+      expression differences that are detectable at the time of diagnosis.
+FAU - Singh, Dinesh
+AU  - Singh D
+AD  - Department of Adult Oncology, Brigham and Women's Hospital, Harvard Medical 
+      School, Boston, MA 02115, USA.
+FAU - Febbo, Phillip G
+AU  - Febbo PG
+FAU - Ross, Kenneth
+AU  - Ross K
+FAU - Jackson, Donald G
+AU  - Jackson DG
+FAU - Manola, Judith
+AU  - Manola J
+FAU - Ladd, Christine
+AU  - Ladd C
+FAU - Tamayo, Pablo
+AU  - Tamayo P
+FAU - Renshaw, Andrew A
+AU  - Renshaw AA
+FAU - D'Amico, Anthony V
+AU  - D'Amico AV
+FAU - Richie, Jerome P
+AU  - Richie JP
+FAU - Lander, Eric S
+AU  - Lander ES
+FAU - Loda, Massimo
+AU  - Loda M
+FAU - Kantoff, Philip W
+AU  - Kantoff PW
+FAU - Golub, Todd R
+AU  - Golub TR
+FAU - Sellers, William R
+AU  - Sellers WR
+LA  - eng
+GR  - K23 CA089031/CA/NCI NIH HHS/United States
+GR  - K23 CA089031-02/CA/NCI NIH HHS/United States
+GR  - CA84995/CA/NCI NIH HHS/United States
+GR  - CA89031/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Cancer Cell
+JT  - Cancer cell
+JID - 101130617
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Disease-Free Survival
+MH  - *Gene Expression Profiling
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Predictive Value of Tests
+MH  - Prognosis
+MH  - Prostatic Neoplasms/classification/*diagnosis/*genetics/pathology
+MH  - Reproducibility of Results
+MH  - Risk Factors
+MH  - Treatment Outcome
+EDAT- 2002/06/28 10:00
+MHDA- 2002/08/14 10:01
+CRDT- 2002/06/28 10:00
+PHST- 2002/06/28 10:00 [pubmed]
+PHST- 2002/08/14 10:01 [medline]
+PHST- 2002/06/28 10:00 [entrez]
+AID - S1535610802000302 [pii]
+AID - 10.1016/s1535-6108(02)00030-2 [doi]
+PST - ppublish
+SO  - Cancer Cell. 2002 Mar;1(2):203-9. doi: 10.1016/s1535-6108(02)00030-2.

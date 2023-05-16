@@ -1,0 +1,71 @@
+PMID- 10359783
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19990708
+LR  - 20230331
+IS  - 0027-8424 (Print)
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Linking)
+VI  - 96
+IP  - 12
+DP  - 1999 Jun 8
+TI  - Broad patterns of gene expression revealed by clustering analysis of tumor and 
+      normal colon tissues probed by oligonucleotide arrays.
+PG  - 6745-50
+AB  - Oligonucleotide arrays can provide a broad picture of the state of the cell, by 
+      monitoring the expression level of thousands of genes at the same time. It is of 
+      interest to develop techniques for extracting useful information from the 
+      resulting data sets. Here we report the application of a two-way clustering 
+      method for analyzing a data set consisting of the expression patterns of 
+      different cell types. Gene expression in 40 tumor and 22 normal colon tissue 
+      samples was analyzed with an Affymetrix oligonucleotide array complementary to 
+      more than 6,500 human genes. An efficient two-way clustering algorithm was 
+      applied to both the genes and the tissues, revealing broad coherent patterns that 
+      suggest a high degree of organization underlying gene expression in these 
+      tissues. Coregulated families of genes clustered together, as demonstrated for 
+      the ribosomal proteins. Clustering also separated cancerous from noncancerous 
+      tissue and cell lines from in vivo tissues on the basis of subtle distributed 
+      patterns of genes even when expression of individual genes varied only slightly 
+      between the tissues. Two-way clustering thus may be of use both in classifying 
+      genes into functional groups and in classifying tissues based on gene expression.
+FAU - Alon, U
+AU  - Alon U
+AD  - Department of Molecular Biology, Princeton University, Princeton, NJ 08540, USA.
+FAU - Barkai, N
+AU  - Barkai N
+FAU - Notterman, D A
+AU  - Notterman DA
+FAU - Gish, K
+AU  - Gish K
+FAU - Ybarra, S
+AU  - Ybarra S
+FAU - Mack, D
+AU  - Mack D
+FAU - Levine, A J
+AU  - Levine AJ
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (Oligonucleotide Probes)
+SB  - IM
+MH  - Adenocarcinoma/*genetics
+MH  - Cluster Analysis
+MH  - Colonic Neoplasms/*genetics
+MH  - *Gene Expression Regulation, Neoplastic
+MH  - Humans
+MH  - *Oligonucleotide Probes
+PMC - PMC21986
+EDAT- 1999/06/09 00:00
+MHDA- 1999/06/09 00:01
+CRDT- 1999/06/09 00:00
+PHST- 1999/06/09 00:00 [pubmed]
+PHST- 1999/06/09 00:01 [medline]
+PHST- 1999/06/09 00:00 [entrez]
+AID - 1440 [pii]
+AID - 10.1073/pnas.96.12.6745 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 1999 Jun 8;96(12):6745-50. doi: 
+      10.1073/pnas.96.12.6745.

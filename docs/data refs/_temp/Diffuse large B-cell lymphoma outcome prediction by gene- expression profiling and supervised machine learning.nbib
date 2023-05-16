@@ -1,0 +1,110 @@
+PMID- 11786909
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20020130
+LR  - 20151119
+IS  - 1078-8956 (Print)
+IS  - 1078-8956 (Linking)
+VI  - 8
+IP  - 1
+DP  - 2002 Jan
+TI  - Diffuse large B-cell lymphoma outcome prediction by gene-expression profiling and 
+      supervised machine learning.
+PG  - 68-74
+AB  - Diffuse large B-cell lymphoma (DLBCL), the most common lymphoid malignancy in 
+      adults, is curable in less than 50% of patients. Prognostic models based on 
+      pre-treatment characteristics, such as the International Prognostic Index (IPI), 
+      are currently used to predict outcome in DLBCL. However, clinical outcome models 
+      identify neither the molecular basis of clinical heterogeneity, nor specific 
+      therapeutic targets. We analyzed the expression of 6,817 genes in diagnostic 
+      tumor specimens from DLBCL patients who received cyclophosphamide, adriamycin, 
+      vincristine and prednisone (CHOP)-based chemotherapy, and applied a supervised 
+      learning prediction method to identify cured versus fatal or refractory disease. 
+      The algorithm classified two categories of patients with very different five-year 
+      overall survival rates (70% versus 12%). The model also effectively delineated 
+      patients within specific IPI risk categories who were likely to be cured or to 
+      die of their disease. Genes implicated in DLBCL outcome included some that 
+      regulate responses to B-cell-receptor signaling, critical serine/threonine 
+      phosphorylation pathways and apoptosis. Our data indicate that supervised 
+      learning classification techniques can predict outcome in DLBCL and identify 
+      rational targets for intervention.
+FAU - Shipp, Margaret A
+AU  - Shipp MA
+AD  - Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts, USA. 
+      margaret_shipp@dfci.harvard.edu
+FAU - Ross, Ken N
+AU  - Ross KN
+FAU - Tamayo, Pablo
+AU  - Tamayo P
+FAU - Weng, Andrew P
+AU  - Weng AP
+FAU - Kutok, Jeffery L
+AU  - Kutok JL
+FAU - Aguiar, Ricardo C T
+AU  - Aguiar RC
+FAU - Gaasenbeek, Michelle
+AU  - Gaasenbeek M
+FAU - Angelo, Michael
+AU  - Angelo M
+FAU - Reich, Michael
+AU  - Reich M
+FAU - Pinkus, Geraldine S
+AU  - Pinkus GS
+FAU - Ray, Tane S
+AU  - Ray TS
+FAU - Koval, Margaret A
+AU  - Koval MA
+FAU - Last, Kim W
+AU  - Last KW
+FAU - Norton, Andrew
+AU  - Norton A
+FAU - Lister, T Andrew
+AU  - Lister TA
+FAU - Mesirov, Jill
+AU  - Mesirov J
+FAU - Neuberg, Donna S
+AU  - Neuberg DS
+FAU - Lander, Eric S
+AU  - Lander ES
+FAU - Aster, Jon C
+AU  - Aster JC
+FAU - Golub, Todd R
+AU  - Golub TR
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Nat Med
+JT  - Nature medicine
+JID - 9502015
+RN  - 5J49Q6B70F (Vincristine)
+RN  - 80168379AG (Doxorubicin)
+RN  - 8N3DW7272P (Cyclophosphamide)
+RN  - VB0R961HZT (Prednisone)
+RN  - CHOP protocol
+SB  - IM
+CIN - Nat Med. 2002 Jan;8(1):13-4. PMID: 11786894
+MH  - Antineoplastic Combined Chemotherapy Protocols
+MH  - *Artificial Intelligence
+MH  - Cyclophosphamide
+MH  - Doxorubicin
+MH  - Gene Expression Profiling/*methods
+MH  - Humans
+MH  - Lymphoma, B-Cell/*diagnosis/drug therapy/mortality
+MH  - Lymphoma, Large B-Cell, Diffuse/*diagnosis/drug therapy/mortality
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Predictive Value of Tests
+MH  - Prednisone
+MH  - Treatment Outcome
+MH  - Vincristine
+EDAT- 2002/01/12 10:00
+MHDA- 2002/01/31 10:01
+CRDT- 2002/01/12 10:00
+PHST- 2002/01/12 10:00 [pubmed]
+PHST- 2002/01/31 10:01 [medline]
+PHST- 2002/01/12 10:00 [entrez]
+AID - nm0102-68 [pii]
+AID - 10.1038/nm0102-68 [doi]
+PST - ppublish
+SO  - Nat Med. 2002 Jan;8(1):68-74. doi: 10.1038/nm0102-68.

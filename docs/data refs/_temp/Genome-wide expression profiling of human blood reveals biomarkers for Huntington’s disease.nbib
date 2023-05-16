@@ -1,0 +1,116 @@
+PMID- 16043692
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050920
+LR  - 20220321
+IS  - 0027-8424 (Print)
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Linking)
+VI  - 102
+IP  - 31
+DP  - 2005 Aug 2
+TI  - Genome-wide expression profiling of human blood reveals biomarkers for 
+      Huntington's disease.
+PG  - 11023-8
+AB  - Huntington's disease (HD) is an autosomal dominant disorder caused by an 
+      expansion of glutamine repeats in ubiquitously distributed huntingtin protein. 
+      Recent studies have shown that mutant huntingtin interferes with the function of 
+      widely expressed transcription factors, suggesting that gene expression may be 
+      altered in a variety of tissues in HD, including peripheral blood. Affymetrix and 
+      Amersham Biosciences oligonucleotide microarrays were used to analyze global gene 
+      expression in blood samples of HD patients and matched controls. We identified 
+      322 mRNAs that showed significantly altered expression in HD blood samples, 
+      compared with controls (P < 0.0005), on two different microarray platforms. A 
+      subset of up-regulated mRNAs selected from this group was able to distinguish 
+      controls, presymptomatic individuals carrying the HD mutation, and symptomatic HD 
+      patients. In addition, early presymptomatic subjects showed gene expression 
+      profiles similar to those of controls, whereas late presymptomatic subjects 
+      showed altered expression that resembled that of symptomatic HD patients. These 
+      elevated mRNAs were significantly reduced in HD patients involved in a 
+      dose-finding study of the histone deacetylase inhibitor sodium phenylbutyrate. 
+      Furthermore, expression of the marker genes was significantly up-regulated in 
+      postmortem HD caudate, suggesting that alterations in blood mRNAs may reflect 
+      disease mechanisms observed in HD brain. In conclusion, we identified changes in 
+      blood mRNAs that clearly distinguish HD patients from controls. These alterations 
+      in mRNA expression correlate with disease progression and response to 
+      experimental treatment. Such markers may provide clues to the state of HD and may 
+      be of predictive value in clinical trials.
+FAU - Borovecki, F
+AU  - Borovecki F
+AD  - Department of Neurology, Massachusetts General Hospital, Harvard Medical School, 
+      Center for Interdisciplinary Informatics, MassGeneral Institute for 
+      Neurodegenerative Disease, Charlestown, MA 02129, USA.
+FAU - Lovrecic, L
+AU  - Lovrecic L
+FAU - Zhou, J
+AU  - Zhou J
+FAU - Jeong, H
+AU  - Jeong H
+FAU - Then, F
+AU  - Then F
+FAU - Rosas, H D
+AU  - Rosas HD
+FAU - Hersch, S M
+AU  - Hersch SM
+FAU - Hogarth, P
+AU  - Hogarth P
+FAU - Bouzou, B
+AU  - Bouzou B
+FAU - Jensen, R V
+AU  - Jensen RV
+FAU - Krainc, D
+AU  - Krainc D
+LA  - eng
+GR  - M01 RR000334/RR/NCRR NIH HHS/United States
+GR  - P01 NS045242/NS/NINDS NIH HHS/United States
+GR  - 5M01 RR 000334/RR/NCRR NIH HHS/United States
+GR  - K08 NS002174/NS/NINDS NIH HHS/United States
+GR  - NS 002174/NS/NINDS NIH HHS/United States
+GR  - NS 045242/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20050725
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (DNA Primers)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Genetic Markers)
+RN  - 0 (Histone Deacetylase Inhibitors)
+RN  - 0 (Phenylbutyrates)
+RN  - 0 (RNA, Messenger)
+SB  - IM
+MH  - Adult
+MH  - Base Sequence
+MH  - Brain/metabolism
+MH  - Case-Control Studies
+MH  - DNA Primers/genetics
+MH  - Enzyme Inhibitors/therapeutic use
+MH  - Female
+MH  - Gene Expression Profiling
+MH  - *Genetic Markers
+MH  - Genome, Human
+MH  - Histone Deacetylase Inhibitors
+MH  - Humans
+MH  - Huntington Disease/*blood/drug therapy/*genetics/metabolism
+MH  - Male
+MH  - Middle Aged
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Phenylbutyrates/therapeutic use
+MH  - RNA, Messenger/genetics/metabolism
+PMC - PMC1182457
+EDAT- 2005/07/27 09:00
+MHDA- 2005/09/21 09:00
+CRDT- 2005/07/27 09:00
+PHST- 2005/07/27 09:00 [pubmed]
+PHST- 2005/09/21 09:00 [medline]
+PHST- 2005/07/27 09:00 [entrez]
+AID - 0504921102 [pii]
+AID - 010211023 [pii]
+AID - 10.1073/pnas.0504921102 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2005 Aug 2;102(31):11023-8. doi: 
+      10.1073/pnas.0504921102. Epub 2005 Jul 25.

@@ -1,0 +1,107 @@
+PMID- 11553815
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20011101
+LR  - 20221109
+IS  - 0027-8424 (Print)
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Linking)
+VI  - 98
+IP  - 19
+DP  - 2001 Sep 11
+TI  - Gene expression patterns of breast carcinomas distinguish tumor subclasses with 
+      clinical implications.
+PG  - 10869-74
+AB  - The purpose of this study was to classify breast carcinomas based on variations 
+      in gene expression patterns derived from cDNA microarrays and to correlate tumor 
+      characteristics to clinical outcome. A total of 85 cDNA microarray experiments 
+      representing 78 cancers, three fibroadenomas, and four normal breast tissues were 
+      analyzed by hierarchical clustering. As reported previously, the cancers could be 
+      classified into a basal epithelial-like group, an ERBB2-overexpressing group and 
+      a normal breast-like group based on variations in gene expression. A novel 
+      finding was that the previously characterized luminal epithelial/estrogen 
+      receptor-positive group could be divided into at least two subgroups, each with a 
+      distinctive expression profile. These subtypes proved to be reasonably robust by 
+      clustering using two different gene sets: first, a set of 456 cDNA clones 
+      previously selected to reflect intrinsic properties of the tumors and, second, a 
+      gene set that highly correlated with patient outcome. Survival analyses on a 
+      subcohort of patients with locally advanced breast cancer uniformly treated in a 
+      prospective study showed significantly different outcomes for the patients 
+      belonging to the various groups, including a poor prognosis for the basal-like 
+      subtype and a significant difference in outcome for the two estrogen 
+      receptor-positive groups.
+FAU - Sørlie, T
+AU  - Sørlie T
+AD  - Department of Genetics, The Norwegian Radium Hospital, Montebello, N-0310 Oslo, 
+      Norway.
+FAU - Perou, C M
+AU  - Perou CM
+FAU - Tibshirani, R
+AU  - Tibshirani R
+FAU - Aas, T
+AU  - Aas T
+FAU - Geisler, S
+AU  - Geisler S
+FAU - Johnsen, H
+AU  - Johnsen H
+FAU - Hastie, T
+AU  - Hastie T
+FAU - Eisen, M B
+AU  - Eisen MB
+FAU - van de Rijn, M
+AU  - van de Rijn M
+FAU - Jeffrey, S S
+AU  - Jeffrey SS
+FAU - Thorsen, T
+AU  - Thorsen T
+FAU - Quist, H
+AU  - Quist H
+FAU - Matese, J C
+AU  - Matese JC
+FAU - Brown, P O
+AU  - Brown PO
+FAU - Botstein, D
+AU  - Botstein D
+FAU - Lønning, P E
+AU  - Lønning PE
+FAU - Børresen-Dale, A L
+AU  - Børresen-Dale AL
+LA  - eng
+GR  - U01 CA085129/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (DNA, Neoplasm)
+RN  - 0 (Tumor Suppressor Protein p53)
+SB  - IM
+MH  - Algorithms
+MH  - Breast Neoplasms/classification/*genetics
+MH  - Carcinoma in Situ/classification/*genetics
+MH  - Carcinoma, Ductal, Breast/classification/*genetics
+MH  - Carcinoma, Lobular/classification/*genetics
+MH  - *DNA, Neoplasm
+MH  - Female
+MH  - Fibroadenoma/classification/*genetics
+MH  - *Gene Expression
+MH  - Gene Expression Profiling
+MH  - Humans
+MH  - Oligonucleotide Array Sequence Analysis/methods
+MH  - Tumor Suppressor Protein p53/genetics
+PMC - PMC58566
+EDAT- 2001/09/13 10:00
+MHDA- 2001/11/03 10:01
+CRDT- 2001/09/13 10:00
+PHST- 2001/09/13 10:00 [pubmed]
+PHST- 2001/11/03 10:01 [medline]
+PHST- 2001/09/13 10:00 [entrez]
+AID - 98/19/10869 [pii]
+AID - 191367098 [pii]
+AID - 3670 [pii]
+AID - 10.1073/pnas.191367098 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2001 Sep 11;98(19):10869-74. doi: 
+      10.1073/pnas.191367098.

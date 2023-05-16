@@ -1,0 +1,86 @@
+PMID- 14684422
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040511
+LR  - 20220318
+IS  - 0006-4971 (Print)
+IS  - 0006-4971 (Linking)
+VI  - 103
+IP  - 7
+DP  - 2004 Apr 1
+TI  - Gene expression profile of adult T-cell acute lymphocytic leukemia identifies 
+      distinct subsets of patients with different response to therapy and survival.
+PG  - 2771-8
+AB  - Gene expression profiles were examined in 33 adult patients with T-cell acute 
+      lymphocytic leukemia (T-ALL). Nonspecific filtering criteria identified 313 genes 
+      differentially expressed in the leukemic cells. Hierarchical clustering of 
+      samples identified 2 groups that reflected the degree of T-cell differentiation 
+      but was not associated with clinical outcome. Comparison between refractory 
+      patients and those who responded to induction chemotherapy identified a single 
+      gene, interleukin 8 (IL-8), that was highly expressed in refractory T-ALL cells 
+      and a set of 30 genes that was highly expressed in leukemic cells from patients 
+      who achieved complete remission. We next identified 19 genes that were 
+      differentially expressed in T-ALL cells from patients who either had a relapse or 
+      remained in continuous complete remission. A model based on the expression of 3 
+      of these genes was predictive of duration of remission. The 3-gene model was 
+      validated on a further set of T-ALL samples from 18 additional patients treated 
+      on the same clinical protocol. This study demonstrates that gene expression 
+      profiling can identify a limited number of genes that are predictive of response 
+      to induction therapy and remission duration in adult patients with T-ALL.
+FAU - Chiaretti, Sabina
+AU  - Chiaretti S
+AD  - Department of Medical Oncology, Dana-Farber Cancer Institute, Department of 
+      Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA 02115, 
+      USA.
+FAU - Li, Xiaochun
+AU  - Li X
+FAU - Gentleman, Robert
+AU  - Gentleman R
+FAU - Vitale, Antonella
+AU  - Vitale A
+FAU - Vignetti, Marco
+AU  - Vignetti M
+FAU - Mandelli, Franco
+AU  - Mandelli F
+FAU - Ritz, Jerome
+AU  - Ritz J
+FAU - Foa, Robin
+AU  - Foa R
+LA  - eng
+GR  - CA66996/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20031218
+PL  - United States
+TA  - Blood
+JT  - Blood
+JID - 7603509
+RN  - 0 (DNA Primers)
+SB  - IM
+MH  - Adult
+MH  - Base Sequence
+MH  - DNA Primers
+MH  - Gene Expression Profiling/*methods
+MH  - Gene Expression Regulation, Neoplastic/*genetics
+MH  - Humans
+MH  - Leukemia-Lymphoma, Adult T-Cell/*genetics/mortality/*therapy
+MH  - Models, Genetic
+MH  - Oligonucleotide Array Sequence Analysis/methods
+MH  - Predictive Value of Tests
+MH  - Reproducibility of Results
+MH  - Reverse Transcriptase Polymerase Chain Reaction/methods
+MH  - Survival Rate
+MH  - Time Factors
+MH  - Tumor Cells, Cultured
+EDAT- 2003/12/20 05:00
+MHDA- 2004/05/12 05:00
+CRDT- 2003/12/20 05:00
+PHST- 2003/12/20 05:00 [pubmed]
+PHST- 2004/05/12 05:00 [medline]
+PHST- 2003/12/20 05:00 [entrez]
+AID - S0006-4971(20)43890-X [pii]
+AID - 10.1182/blood-2003-09-3243 [doi]
+PST - ppublish
+SO  - Blood. 2004 Apr 1;103(7):2771-8. doi: 10.1182/blood-2003-09-3243. Epub 2003 Dec 
+      18.

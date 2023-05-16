@@ -1,0 +1,107 @@
+PMID- 14695408
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040106
+LR  - 20220318
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Linking)
+VI  - 349
+IP  - 26
+DP  - 2003 Dec 25
+TI  - The role of the Wnt-signaling antagonist DKK1 in the development of osteolytic 
+      lesions in multiple myeloma.
+PG  - 2483-94
+AB  - BACKGROUND: Myeloma cells may secrete factors that affect the function of 
+      osteoblasts, osteoclasts, or both. METHODS: We subjected purified plasma cells 
+      from the bone marrow of patients with newly diagnosed multiple myeloma and 
+      control subjects to oligonucleotide microarray profiling and biochemical and 
+      immunohistochemical analyses to identify molecular determinants of osteolytic 
+      lesions. RESULTS: We studied 45 control subjects, 36 patients with multiple 
+      myeloma in whom focal lesions of bone could not be detected by magnetic resonance 
+      imaging (MRI), and 137 patients in whom MRI detected such lesions. Different 
+      patterns of expression of 57 of approximately 10,000 genes from purified myeloma 
+      cells could be used to distinguish the two groups of patients (P<0.001). 
+      Permutation analysis, which adjusts the significance level to account for 
+      multiple comparisons in the data sets, showed that 4 of these 57 genes were 
+      significantly overexpressed by plasma cells from patients with focal lesions. One 
+      of these genes, dickkopf 1 (DKK1), and its corresponding protein (DKK1) were 
+      studied in detail because DKK1 is a secreted factor that has been linked to the 
+      function of osteoblasts. Immunohistochemical analysis of bone marrow-biopsy 
+      specimens showed that only myeloma cells contained detectable DKK1. Elevated DKK1 
+      levels in bone marrow plasma and peripheral blood from patients with multiple 
+      myeloma correlated with the gene-expression patterns of DKK1 and were associated 
+      with the presence of focal bone lesions. Recombinant human DKK1 or bone marrow 
+      serum containing an elevated level of DKK1 inhibited the differentiation of 
+      osteoblast precursor cells in vitro. CONCLUSIONS: The production of DKK1, an 
+      inhibitor of osteoblast differentiation, by myeloma cells is associated with the 
+      presence of lytic bone lesions in patients with multiple myeloma.
+CI  - Copyright 2003 Massachusetts Medical Society
+FAU - Tian, Erming
+AU  - Tian E
+AD  - Donna D. and Donald M. Lambert Laboratory of Myeloma Genetics, Myeloma Institute 
+      for Research and Therapy, College of Medicine, University of Arkansas for Medical 
+      Sciences, Little Rock 72205, USA.
+FAU - Zhan, Fenghuang
+AU  - Zhan F
+FAU - Walker, Ronald
+AU  - Walker R
+FAU - Rasmussen, Erik
+AU  - Rasmussen E
+FAU - Ma, Yupo
+AU  - Ma Y
+FAU - Barlogie, Bart
+AU  - Barlogie B
+FAU - Shaughnessy, John D Jr
+AU  - Shaughnessy JD Jr
+LA  - eng
+GR  - CA55819/CA/NCI NIH HHS/United States
+GR  - CA97513/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 0 (DKK1 protein, human)
+RN  - 0 (Intercellular Signaling Peptides and Proteins)
+RN  - 0 (Proteins)
+RN  - 0 (Proto-Oncogene Proteins)
+RN  - 0 (Wnt Proteins)
+RN  - 0 (Zebrafish Proteins)
+RN  - 0 (dkk1b protein, zebrafish)
+SB  - IM
+CIN - N Engl J Med. 2003 Dec 25;349(26):2479-80. PMID: 14695406
+CIN - N Engl J Med. 2004 Apr 1;350(14):1464-6; author reply 1464-6. PMID: 15070800
+CIN - N Engl J Med. 2004 Apr 1;350(14):1464-6; author reply 1464-6. PMID: 15074001
+CIN - N Engl J Med. 2004 Apr 1;350(14):1464-6; author reply 1464-6. PMID: 15074002
+CIN - N Engl J Med. 2004 Jul 8;351(2):197-8. PMID: 15247367
+MH  - Bone Marrow/metabolism
+MH  - Case-Control Studies
+MH  - Gene Expression
+MH  - *Gene Expression Regulation, Neoplastic
+MH  - Humans
+MH  - Intercellular Signaling Peptides and Proteins
+MH  - Logistic Models
+MH  - Magnetic Resonance Imaging
+MH  - Multiple Myeloma/*complications/genetics/metabolism
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Osteoblasts
+MH  - Osteolysis/diagnosis/*etiology
+MH  - Plasma Cells/metabolism
+MH  - Protein Biosynthesis
+MH  - Proteins/*genetics/metabolism
+MH  - Proto-Oncogene Proteins/*antagonists & inhibitors
+MH  - Signal Transduction
+MH  - Wnt Proteins
+MH  - *Zebrafish Proteins
+EDAT- 2003/12/26 05:00
+MHDA- 2004/01/07 05:00
+CRDT- 2003/12/26 05:00
+PHST- 2003/12/26 05:00 [pubmed]
+PHST- 2004/01/07 05:00 [medline]
+PHST- 2003/12/26 05:00 [entrez]
+AID - 349/26/2483 [pii]
+AID - 10.1056/NEJMoa030847 [doi]
+PST - ppublish
+SO  - N Engl J Med. 2003 Dec 25;349(26):2483-94. doi: 10.1056/NEJMoa030847.

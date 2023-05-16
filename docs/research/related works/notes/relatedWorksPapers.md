@@ -1,0 +1,33 @@
+- On the Feature Selection of Microarray Data for Cancer Detection based on Random Forest Classifier
+    - Tita Nurul Nuklianggraita, Adiwijaya, Annisa Aditsania (1495)
+- A review of microarray datasets and applied feature selection methods
+        - V. Bolón-Canedo, N. Sánchez-Maroño, A. Alonso-Betanzos, J.M. Benítez, F. Herrera (475)
+- Wrapper–Filter Feature Selection Algorithm Using a Memetic Framework
+    - Zexuan Zhu, Yew-Soon Ong, and Manoranjan Dash (319)
+- Information-Theoretic Feature Selection in Microarray Data Using Variable Complementarity
+    - Patrick Emmanuel Meyer, Colas Schretter, and Gianluca Bontempi (178)
+- Two hybrid wrapper-filter feature selection algorithms applied to    high-dimensional microarray experiments
+    - Javier Apolloni, Guillermo Leguizamón, Enrique Alba (171)
+- A comparative study of different machine learning methods on microarray gene expression data
+    - Mehdi Pirooznia, Jack Y Yang, Mary Qu Yang and Youping Deng (145)
+- A hybrid feature selection method for DNA microarray data
+    - Li-Yeh Chuang, Cheng-Huei Yang, Kuo-Chuan Wu, Cheng-Hong Yang (95)
+- Genetic algorithm based cancerous gene identification from microarray data using ensemble of filter methods
+    - Manosij Ghosh, Sukdev Adhikary, Kushal Kanti Ghosh, Aritra Sardar, Shemim Begum & Ram Sarkar (78)
+- Distributed feature selection: An application to microarray data classification
+    - V.Bolón-CanedoN.Sánchez-MaronoA.Alonso-Betanzos (171)
+- Gene selection from microarray data for cancer classification - a machine learning approach
+    -  Yu WangIgor V. TetkoMark A. HallEibe FrankAxel FaciusKlaus F.X. MayerHans W. Mewes (316)
+
+
+## only papers
+- On the Feature Selection of Microarray Data for Cancer Detection based on Random Forest Classifier
+- A review of microarray datasets and applied feature selection methods
+- Wrapper–Filter Feature Selection Algorithm Using a Memetic Framework
+- Information-Theoretic Feature Selection in Microarray Data Using Variable Complementarity
+- Two hybrid wrapper-filter feature selection algorithms applied to    high-dimensional microarray experiments
+- A comparative study of different machine learning methods on microarray gene expression data
+- A hybrid feature selection method for DNA microarray data
+- Genetic algorithm based cancerous gene identification from microarray data using ensemble of filter methods
+- Distributed feature selection: An application to microarray data classification
+- Gene selection from microarray data for cancer classification - a machine learning approach

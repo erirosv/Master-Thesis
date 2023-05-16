@@ -1,0 +1,90 @@
+PMID- 10521349
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19991108
+LR  - 20220408
+IS  - 0036-8075 (Print)
+IS  - 0036-8075 (Linking)
+VI  - 286
+IP  - 5439
+DP  - 1999 Oct 15
+TI  - Molecular classification of cancer: class discovery and class prediction by gene 
+      expression monitoring.
+PG  - 531-7
+AB  - Although cancer classification has improved over the past 30 years, there has 
+      been no general approach for identifying new cancer classes (class discovery) or 
+      for assigning tumors to known classes (class prediction). Here, a generic 
+      approach to cancer classification based on gene expression monitoring by DNA 
+      microarrays is described and applied to human acute leukemias as a test case. A 
+      class discovery procedure automatically discovered the distinction between acute 
+      myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL) without previous 
+      knowledge of these classes. An automatically derived class predictor was able to 
+      determine the class of new leukemia cases. The results demonstrate the 
+      feasibility of cancer classification based solely on gene expression monitoring 
+      and suggest a general strategy for discovering and predicting cancer classes for 
+      other types of cancer, independent of previous biological knowledge.
+FAU - Golub, T R
+AU  - Golub TR
+AD  - Whitehead Institute/Massachusetts Institute of Technology Center for Genome 
+      Research, Cambridge, MA 02139, USA. golub@genome.wi.mit.edu
+FAU - Slonim, D K
+AU  - Slonim DK
+FAU - Tamayo, P
+AU  - Tamayo P
+FAU - Huard, C
+AU  - Huard C
+FAU - Gaasenbeek, M
+AU  - Gaasenbeek M
+FAU - Mesirov, J P
+AU  - Mesirov JP
+FAU - Coller, H
+AU  - Coller H
+FAU - Loh, M L
+AU  - Loh ML
+FAU - Downing, J R
+AU  - Downing JR
+FAU - Caligiuri, M A
+AU  - Caligiuri MA
+FAU - Bloomfield, C D
+AU  - Bloomfield CD
+FAU - Lander, E S
+AU  - Lander ES
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Science
+JT  - Science (New York, N.Y.)
+JID - 0404511
+RN  - 0 (Homeodomain Proteins)
+RN  - 0 (Neoplasm Proteins)
+RN  - 0 (homeobox protein HOXA9)
+SB  - IM
+MH  - Acute Disease
+MH  - Antineoplastic Combined Chemotherapy Protocols/therapeutic use
+MH  - Cell Adhesion/genetics
+MH  - Cell Cycle/genetics
+MH  - *Gene Expression Profiling
+MH  - Homeodomain Proteins/genetics
+MH  - Humans
+MH  - Leukemia, Myeloid/*classification/drug therapy/*genetics
+MH  - Neoplasm Proteins/genetics
+MH  - Neoplasms/classification/genetics
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Oncogenes
+MH  - Precursor Cell Lymphoblastic Leukemia-Lymphoma/*classification/drug 
+      therapy/*genetics
+MH  - Predictive Value of Tests
+MH  - Reproducibility of Results
+MH  - Treatment Outcome
+EDAT- 1999/10/16 00:00
+MHDA- 1999/10/16 00:01
+CRDT- 1999/10/16 00:00
+PHST- 1999/10/16 00:00 [pubmed]
+PHST- 1999/10/16 00:01 [medline]
+PHST- 1999/10/16 00:00 [entrez]
+AID - 7911 [pii]
+AID - 10.1126/science.286.5439.531 [doi]
+PST - ppublish
+SO  - Science. 1999 Oct 15;286(5439):531-7. doi: 10.1126/science.286.5439.531.

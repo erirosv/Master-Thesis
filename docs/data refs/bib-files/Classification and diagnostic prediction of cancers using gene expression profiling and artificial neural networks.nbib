@@ -1,0 +1,84 @@
+PMID- 11385503
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010712
+LR  - 20220409
+IS  - 1078-8956 (Print)
+IS  - 1078-8956 (Linking)
+VI  - 7
+IP  - 6
+DP  - 2001 Jun
+TI  - Classification and diagnostic prediction of cancers using gene expression 
+      profiling and artificial neural networks.
+PG  - 673-9
+AB  - The purpose of this study was to develop a method of classifying cancers to 
+      specific diagnostic categories based on their gene expression signatures using 
+      artificial neural networks (ANNs). We trained the ANNs using the small, round 
+      blue-cell tumors (SRBCTs) as a model. These cancers belong to four distinct 
+      diagnostic categories and often present diagnostic dilemmas in clinical practice. 
+      The ANNs correctly classified all samples and identified the genes most relevant 
+      to the classification. Expression of several of these genes has been reported in 
+      SRBCTs, but most have not been associated with these cancers. To test the ability 
+      of the trained ANN models to recognize SRBCTs, we analyzed additional blinded 
+      samples that were not previously used for the training procedure, and correctly 
+      classified them in all cases. This study demonstrates the potential applications 
+      of these methods for tumor diagnosis and the identification of candidate targets 
+      for therapy.
+FAU - Khan, J
+AU  - Khan J
+AD  - Cancer Genetics Branch, National Human Genome Research Institute, National 
+      Institutes of Health, Bethesda, Maryland, USA. khanjav@mail.nih.gov
+FAU - Wei, J S
+AU  - Wei JS
+FAU - Ringnér, M
+AU  - Ringnér M
+FAU - Saal, L H
+AU  - Saal LH
+FAU - Ladanyi, M
+AU  - Ladanyi M
+FAU - Westermann, F
+AU  - Westermann F
+FAU - Berthold, F
+AU  - Berthold F
+FAU - Schwab, M
+AU  - Schwab M
+FAU - Antonescu, C R
+AU  - Antonescu CR
+FAU - Peterson, C
+AU  - Peterson C
+FAU - Meltzer, P S
+AU  - Meltzer PS
+LA  - eng
+GR  - Z01 SC010366-05/SC/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Nat Med
+JT  - Nature medicine
+JID - 9502015
+SB  - IM
+CIN - Nat Med. 2001 Jun;7(6):658-9. PMID: 11385496
+MH  - Burkitt Lymphoma/classification/diagnosis/genetics
+MH  - Data Interpretation, Statistical
+MH  - *Gene Expression Profiling
+MH  - Humans
+MH  - Models, Biological
+MH  - Neoplasms/*classification/*diagnosis/genetics
+MH  - *Neural Networks, Computer
+MH  - Neuroblastoma/classification/diagnosis/genetics
+MH  - *Oligonucleotide Array Sequence Analysis
+MH  - Rhabdomyosarcoma/classification/diagnosis/genetics
+MH  - Sarcoma, Ewing/classification/diagnosis/genetics
+MH  - Tumor Cells, Cultured
+PMC - PMC1282521
+MID - NIHMS4815
+EDAT- 2001/06/01 10:00
+MHDA- 2001/07/13 10:01
+CRDT- 2001/06/01 10:00
+PHST- 2001/06/01 10:00 [pubmed]
+PHST- 2001/07/13 10:01 [medline]
+PHST- 2001/06/01 10:00 [entrez]
+AID - 89044 [pii]
+AID - 10.1038/89044 [doi]
+PST - ppublish
+SO  - Nat Med. 2001 Jun;7(6):673-9. doi: 10.1038/89044.

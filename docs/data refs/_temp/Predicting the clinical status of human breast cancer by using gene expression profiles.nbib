@@ -1,0 +1,96 @@
+PMID- 11562467
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20011204
+LR  - 20220331
+IS  - 0027-8424 (Print)
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Linking)
+VI  - 98
+IP  - 20
+DP  - 2001 Sep 25
+TI  - Predicting the clinical status of human breast cancer by using gene expression 
+      profiles.
+PG  - 11462-7
+AB  - Prognostic and predictive factors are indispensable tools in the treatment of 
+      patients with neoplastic disease. For the most part, such factors rely on a few 
+      specific cell surface, histological, or gross pathologic features. Gene 
+      expression assays have the potential to supplement what were previously a few 
+      distinct features with many thousands of features. We have developed Bayesian 
+      regression models that provide predictive capability based on gene expression 
+      data derived from DNA microarray analysis of a series of primary breast cancer 
+      samples. These patterns have the capacity to discriminate breast tumors on the 
+      basis of estrogen receptor status and also on the categorized lymph node status. 
+      Importantly, we assess the utility and validity of such models in predicting the 
+      status of tumors in crossvalidation determinations. The practical value of such 
+      approaches relies on the ability not only to assess relative probabilities of 
+      clinical outcomes for future samples but also to provide an honest assessment of 
+      the uncertainties associated with such predictive classifications on the basis of 
+      the selection of gene subsets for each validation analysis. This latter point is 
+      of critical importance in the ability to apply these methodologies to clinical 
+      assessment of tumor phenotype.
+FAU - West, M
+AU  - West M
+AD  - Institute of Statistics and Decision Sciences, Duke University, Durham, NC 27708, 
+      USA.
+FAU - Blanchette, C
+AU  - Blanchette C
+FAU - Dressman, H
+AU  - Dressman H
+FAU - Huang, E
+AU  - Huang E
+FAU - Ishida, S
+AU  - Ishida S
+FAU - Spang, R
+AU  - Spang R
+FAU - Zuzan, H
+AU  - Zuzan H
+FAU - Olson, J A Jr
+AU  - Olson JA Jr
+FAU - Marks, J R
+AU  - Marks JR
+FAU - Nevins, J R
+AU  - Nevins JR
+LA  - eng
+GR  - P50 CA068438/CA/NCI NIH HHS/United States
+GR  - U01 CA084955/CA/NCI NIH HHS/United States
+GR  - CA 68438/CA/NCI NIH HHS/United States
+GR  - CA 84955/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20010918
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (Enzymes)
+RN  - 0 (Receptors, Estrogen)
+SB  - IM
+MH  - Bacillus anthracis
+MH  - Breast Neoplasms/enzymology/*genetics/pathology/surgery
+MH  - Enzymes/genetics
+MH  - Female
+MH  - Humans
+MH  - Lymph Node Excision
+MH  - Lymph Nodes/pathology
+MH  - Multigene Family
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Phenotype
+MH  - Predictive Value of Tests
+MH  - Probability
+MH  - Receptors, Estrogen/analysis
+MH  - Reproducibility of Results
+PMC - PMC58752
+EDAT- 2001/09/20 10:00
+MHDA- 2002/01/05 10:01
+CRDT- 2001/09/20 10:00
+PHST- 2001/09/20 10:00 [pubmed]
+PHST- 2002/01/05 10:01 [medline]
+PHST- 2001/09/20 10:00 [entrez]
+AID - 201162998 [pii]
+AID - 1629 [pii]
+AID - 10.1073/pnas.201162998 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2001 Sep 25;98(20):11462-7. doi: 
+      10.1073/pnas.201162998. Epub 2001 Sep 18.
