@@ -1,3 +1,5 @@
+# Meeting May 23 
+
 methods to use:
 - Correlation-Based Feature Selection 
 - Relief-Based Feature Selection 
