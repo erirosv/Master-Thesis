@@ -8,4 +8,12 @@
 - name of the features that has been selected
 
 
-
+important parameters:
+- num_grad_avg --> how sure SPFSR is.
+- cv_reps_eval
+- cv_reps_grad
+- iter_max
+- stall_limit
+- hot_start
+- n_jobs
+- n_samples_max
