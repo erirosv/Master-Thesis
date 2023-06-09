@@ -10,6 +10,11 @@ PATH = '../../data/processed'
 path = os.path.abspath(PATH)
 csv_files = glob.glob(os.path.join(path, '*.csv'))
 
+# TODO:
+# - grab the first csv file 
+# - Run it through: prepare_dataset_for_modeling
+# - stor the converted datafile and run through all the datasets
+
 for f in csv_files:
       
     # read the csv file
