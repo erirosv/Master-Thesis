@@ -3,6 +3,8 @@
 */.DS_Store
 code/*
 .env
+data/data_converted/
+data/data_converted/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
