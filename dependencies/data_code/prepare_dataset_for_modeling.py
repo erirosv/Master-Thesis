@@ -8,6 +8,7 @@ import requests
 import ssl
 from sklearn import preprocessing
 from sklearn.utils import shuffle
+import numpy as np
 
 
 def prepare_dataset_for_modeling(dataset_name,
@@ -37,8 +38,11 @@ def prepare_dataset_for_modeling(dataset_name,
         raise ValueError("Prediction type needs to be either 'c' for classification or 'r' for regression.")
 
     if data_directory:
+        # *** MY ADDITION ***
+        file_path = os.path.join(data_directory, dataset_name)
+        # *******************
         # read in from local directory
-        df = pd.read_csv(data_directory + dataset_name, na_values=na_values, header=0)
+        df = pd.read_csv(file_path, na_values=na_values, header=0)
     else:
         # read in the data file from GitHub into a Pandas data frame
         if (not os.environ.get('PYTHONHTTPSVERIFY', '') and
@@ -98,6 +102,12 @@ def prepare_dataset_for_modeling(dataset_name,
     if pred_type == 'c':
         # label-encode y for classification problems
         y = preprocessing.LabelEncoder().fit_transform(y)
+
+    # *** MY ADDITION ***
+ # Flatten x and y arrays
+    x = np.ravel(x)
+    y = np.ravel(y)
+    # *******************
 
     return x, y
 
