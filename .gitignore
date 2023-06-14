@@ -5,6 +5,8 @@ code/*
 .env
 data/data_converted/
 data/data_converted/*
+data_converted_csv/
+data_converted_csv/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
