@@ -50,11 +50,11 @@ def convert_csv(files):
         if len(x) < max_length:
             x = np.pad(x.astype(float), (0, max_length - len(x)), mode='constant', constant_values=np.nan)
         if len(y) < max_length:
-            y = np.pad(y.astype(float), (0, max_length - len(y)), mode='constant', constant_values=np.nan)
+            y = np.pad(y.astype(int), (0, max_length - len(y)), mode='constant')
 
 
 
-        df = pd.DataFrame({'data': x.astype(float), 'label': y.astype(float)})
+        df = pd.DataFrame({'data': x.astype(float), 'label': y.astype(int)})
 
         # Create the save directory if it doesn't exist
         os.makedirs(SAVE_DIRECTORY, exist_ok=True)
