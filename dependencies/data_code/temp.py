@@ -23,12 +23,6 @@ csv_files_processed = glob.glob(os.path.join(path_processed, '*.csv'))
 print(path_processed)
 print(csv_files_processed)
 
-#df_conv = pd.read_csv(csv_files_converted[0])
-#df_conv.head()
-
-#df_pros = pd.read_csv(csv_files_processed[4])
-#df_pros.head()
-
 def prepare_dataset_for_modeling(dataset_name,
                                  pred_type,
                                  data_directory=None,
@@ -38,25 +32,20 @@ def prepare_dataset_for_modeling(dataset_name,
                                  drop_const_columns=True,
                                  scale_data=True):
 
+    print(f'DATASET NAME: {dataset_name}')
+    print(f'directory path: {data_directory}')
 
     if pred_type not in ['c', 'r']:
         raise ValueError("Prediction type needs to be either 'c' for classification or 'r' for regression.")
 
     if data_directory:
-        # read in from local directory
+        if not data_directory.endswith('/'):
+            data_directory += '/'
         df = pd.read_csv(data_directory + dataset_name, na_values=na_values, header=0)
         print(f'DATA: {df.head()}')
-    else:
-        # read in the data file from GitHub into a Pandas data frame
-        if (not os.environ.get('PYTHONHTTPSVERIFY', '') and
-                getattr(ssl, '_create_unverified_context', None)):
-            ssl._create_default_https_context = ssl._create_unverified_context
-        github_location = 'https://raw.githubusercontent.com/vaksakalli/datasets/master/'
-        dataset_url = github_location + dataset_name.lower()
-        df = pd.read_csv(io.StringIO(requests.get(dataset_url).content.decode('utf-8')), na_values=na_values, header=0)
-
-    # drop missing values before (any) sampling
+    print(f'DF LEN BEFORE DROP NA: {len(df)}')
     df = df.dropna()
+    print(f'DF AFTER DROP NA: {len(df)}')
 
     n_observations = df.shape[0]  # no. of observations in the dataset
     n_samples = n_observations  # initialization - no. of observations after (any) sampling
@@ -92,6 +81,10 @@ def prepare_dataset_for_modeling(dataset_name,
 
     return x, y
 
+dataset_name = os.path.basename(csv_files_processed[4])  # Extract the dataset name from the file path
+data_directory = os.path.dirname(csv_files_processed[4]) 
 
+x, y = prepare_dataset_for_modeling(dataset_name, pred_type='c', data_directory=data_directory)
 
-x, y = prepare_dataset_for_modeling(csv_files_processed[4], pred_type='c')
+print(f'X : {x}')
+print(f'Y : {y}')
