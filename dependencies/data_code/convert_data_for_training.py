@@ -26,9 +26,10 @@ def convert_csv(files):
         print(f'Processing dataset: {dataset_name}')
         print(f'directory: {data_directory}')
 
-        file_path = os.path.join(data_directory, dataset_name)  # Concatenate directory and dataset name correctly
+        #file_path = os.path.join(data_directory, dataset_name)  # Concatenate directory and dataset name correctly
         file_path2 = data_directory
-        print(f'FILE_PATH: {file_path}')
+        #print(f'FILE_PATH: {file_path}')
+        print(f'FILE_PATH2: {file_path2}')
 
         x, y = prepare_dataset_for_modeling(dataset_name, pred_type='c', data_directory=file_path2)
 
