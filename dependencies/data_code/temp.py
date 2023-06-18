@@ -81,10 +81,14 @@ def prepare_dataset_for_modeling(dataset_name,
 
     return x, y
 
-dataset_name = os.path.basename(csv_files_processed[4])  # Extract the dataset name from the file path
-data_directory = os.path.dirname(csv_files_processed[4]) 
+#dataset_name = os.path.basename(csv_files_processed[4])  # Extract the dataset name from the file path
+#data_directory = os.path.dirname(csv_files_processed[4]) 
 
-x, y = prepare_dataset_for_modeling(dataset_name, pred_type='c', data_directory=data_directory)
+#x, y = prepare_dataset_for_modeling(dataset_name, pred_type='c', data_directory=data_directory)
 
+#print(f'X : {x}')
+#print(f'Y : {y}')
+
+x, y = prepare_dataset_for_modeling('iris.csv', pred_type='c')
 print(f'X : {x}')
 print(f'Y : {y}')

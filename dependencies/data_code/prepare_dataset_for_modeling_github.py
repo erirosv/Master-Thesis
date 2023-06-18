@@ -106,3 +106,7 @@ def prepare_dataset_for_modeling(dataset_name,
 
 # # example: how to run this script
 # x, y = prepare_dataset_for_modeling('sonar.csv', pred_type='c')
+
+x, y = prepare_dataset_for_modeling('iris.csv', pred_type='c')
+print(f'X : {x}')
+print(f'Y : {y}')
