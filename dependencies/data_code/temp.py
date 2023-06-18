@@ -43,6 +43,8 @@ def prepare_dataset_for_modeling(dataset_name,
             data_directory += '/'
         df = pd.read_csv(data_directory + dataset_name, na_values=na_values, header=0)
         print(f'DATA: {df.head()}')
+    else:
+        df = pd.read_csv(dataset_name)
     print(f'DF LEN BEFORE DROP NA: {len(df)}')
     df = df.dropna()
     print(f'DF AFTER DROP NA: {len(df)}')
