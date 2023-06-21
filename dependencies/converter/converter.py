@@ -7,21 +7,6 @@ import ssl
 from sklearn import preprocessing
 from sklearn.utils import shuffle
 
-# dir paths
-CONVERTED_DATA = '../../data/data_converted'
-PROCESSED_DATA = '../../data/processed'
-
-# Converted datastest
-path_converted = os.path.abspath(CONVERTED_DATA)
-csv_files_converted = glob.glob(os.path.join(path_converted, '*.csv'))
-print(path_converted)
-print(csv_files_converted)
-
-# processed data sets
-path_processed = os.path.abspath(PROCESSED_DATA)
-csv_files_processed = glob.glob(os.path.join(path_processed, '*.csv'))
-print(path_processed)
-print(csv_files_processed)
 
 def prepare_dataset_for_modeling(dataset_name,
                                  pred_type,
@@ -72,6 +57,7 @@ def prepare_dataset_for_modeling(dataset_name,
         if n == 2:
             x[col] = pd.get_dummies(x[col], drop_first=True)
     x = pd.get_dummies(x).values
+    print(f'X DUMMIES : {x}')
 
     if scale_data:
         x = preprocessing.MinMaxScaler().fit_transform(x)
@@ -80,17 +66,8 @@ def prepare_dataset_for_modeling(dataset_name,
 
     if pred_type == 'c':
         y = preprocessing.LabelEncoder().fit_transform(y)
+        print(f'Y CONVERTED : {y}')
 
     return x, y
 
-#dataset_name = os.path.basename(csv_files_processed[4])  # Extract the dataset name from the file path
-#data_directory = os.path.dirname(csv_files_processed[4]) 
 
-#x, y = prepare_dataset_for_modeling(dataset_name, pred_type='c', data_directory=data_directory)
-
-#print(f'X : {x}')
-#print(f'Y : {y}')
-
-x, y = prepare_dataset_for_modeling('../../data/processed/alon.csv', pred_type='c')
-print(f'X : {x}')
-print(f'Y : {y}')

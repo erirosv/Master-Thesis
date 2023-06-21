@@ -7,6 +7,8 @@ data/data_converted/
 data/data_converted/*
 data_converted_csv/
 data_converted_csv/*
+data/version_1/*
+data/version_1/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
