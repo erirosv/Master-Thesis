@@ -18,7 +18,7 @@ SAVE_DIRECTORY = '../../data/test'
 print(f'SAVE DIRECTORY : {SAVE_DIRECTORY}')
 
 PATH = '../../data/processed/'
-SAVE_PATH = '../../data/data_converted_csv/'
+SAVE_PATH = '../../data/test/'
 
 path = os.path.abspath(PATH)
 csv_files = glob.glob(os.path.join(path, '*.csv'))
@@ -42,6 +42,7 @@ def convert_csv(files):
         #df = pd.DataFrame({'data': x.astype(float), 'label': y.astype(int)})
         for i in range(len(x)):
             df = pd.DataFrame({'data': x[i], 'label': y[i]})
+            print(f'Y_VALUE : {y[i]}')
         print('--- COMPLETE --- ')
 
         print(df.head())
