@@ -40,8 +40,9 @@ def convert_csv(files):
 
         print('--- CREATE DATAFRAME ---')
         #df = pd.DataFrame({'data': x.astype(float), 'label': y.astype(int)})
-        for i in range(len(x)):
-            df = pd.DataFrame({'data': x[i], 'label': y[i]})
+        for i in range(len(y)):
+            for j in range(len(x)):
+                df = pd.DataFrame({'data': x[j], 'label': y[i]})
             print(f'Y_VALUE : {y[i]}')
         print('--- COMPLETE --- ')
 
