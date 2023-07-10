@@ -1,0 +1,13 @@
+dataset,_wrapper,num_features_algo,fs_method,cv_error_mean,cv_error_std
+alon,DT,5,SPFSR,0.268,0.114
+alon,DT,10,SPFSR,0.242,0.118
+alon,DT,15,SPFSR,0.255,0.113
+alon,KNN,5,SPFSR,0.254,0.122
+alon,KNN,10,SPFSR,0.248,0.087
+alon,KNN,15,SPFSR,0.238,0.088
+alon,NB,5,SPFSR,0.213,0.113
+alon,NB,10,SPFSR,0.19,0.111
+alon,NB,15,SPFSR,0.187,0.096
+alon,SVM,5,SPFSR,0.187,0.094
+alon,SVM,10,SPFSR,0.187,0.109
+alon,SVM,15,SPFSR,0.2,0.096
